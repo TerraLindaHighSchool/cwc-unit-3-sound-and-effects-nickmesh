@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3475cdd08534b8945983b5b18331e514, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 10
+  jumpForce: 12.5
   gravityModifier: 2
   isOnGround: 1
   gameOver: 0
